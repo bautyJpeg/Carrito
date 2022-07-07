@@ -1,0 +1,35 @@
+header {
+    height: 5vh;
+}
+
+.GeneralContainer {
+  height: 100vh;
+}
+
+.ProductsContainer {
+  height: 100%;
+  background-color: #ffffff00;
+  overflow-y: scroll;
+}
+
+.CartContainer {
+  height: 100%;
+  overflow-y: scroll;
+  background-color: #49494b;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.productImg {
+ max-height: 400px;
+
+ max-width: 400px; 
+
+ padding: 50px;
+
+}
+
+.cardbody {
+padding: 20px;
+}
+
+
